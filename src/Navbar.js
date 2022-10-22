@@ -10,7 +10,7 @@ import {
 function App() {
   return (
     <div>
-        <Link to="/">Home</Link>
+        <Link to="/testrouting">Home</Link>
         <Link to="/about">About</Link>
         <Link to="/features">Features</Link>
     </div>
